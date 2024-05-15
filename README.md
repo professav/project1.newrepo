@@ -1,5 +1,4 @@
-# project1.newrepo
-Project Overview:
+# Project Overview:
 This project explored the impact of Education on Earnings along the Time with a focus on the Gap between Genders through data visualization. 
 
 **Usage and Installation Instructions**
