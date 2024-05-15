@@ -13,14 +13,17 @@ This project utilizes two datasets from the US Bureau of Labor Statistics in CSV
 8) Prophet models are created for men and women weekly earnings and two graphs are created showing the predicted values for the next 10 years.
 
 **Team members:**
+
 Elizabeth Arias, Sebastian Fajardo, Dawn Kim, Chearine P, Zhongzhe Shen (Dennis), Vanessa
 
 **Dataset:**
+
 US Bureau of Labor Statistics data set (https://www.bls.gov/data/#employment), spanning twenty years with salary, education, and gender as parameters.
 Tools for Analysis:
 Jupyter Notebook; Google Collab [https://colab.google/]
 
 **Approach and Methodology:**
+
 Started with project ideation, sourcing data & transforming it manually to the usable CSV file.  Then used Power BI to quickly assess the feasibility of the downloaded
 downloaded dataset into an excel tab separated values. Further took Python to explore, clean and analyze the data. The new layout was stored as a standard
 CSV file and Github for code repository. Finally built visualizations with Jupyter Notebook and Google Collab. Both top-down and bottom-up approachs were
