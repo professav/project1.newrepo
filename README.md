@@ -32,7 +32,8 @@ bls.govbls.gov
 Databases, Tables & Calculators by Subject (12 kB)
 https://www.bls.gov/data/#employment
 
-**The conclusions were: **
+****The conclusions were: ****
+
 1) Both men & women earn more with increased education; While there is a noticeable gender gap in pay between men & women, pay across both genders are directionally aligned across all education levels.
 2) Gender gap is fairly consistent ($0.70/$0.80 F : $1 M), with greater gender imparity for Advanced Degree (compared to lower education levels).
 3) Wage growth seems to be generally aligned across genders, perhaps lagged for females across lower education levels.
