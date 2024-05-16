@@ -60,10 +60,13 @@ https://www.bls.gov/data/#employment
 
 
 **Articles:**
-Gender pay gap in U.S. hasn’t changed much in two decades
+
+*Gender pay gap in U.S. hasn’t changed much in two decades:
+
 https://www.pewresearch.org/short-reads/2023/03/01/gender-pay-gap-facts/
 
-Gender wage gap widens even as low-wage workers see strong gains
+*Gender wage gap widens even as low-wage workers see strong gains:
+
 https://www.epi.org/blog/gender-wage-gap-widens-even-as-low-wage-workers-see-strong-gains-women-are-paid-roughly-22-less-than-men-on-average/
 
 
