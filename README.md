@@ -1,5 +1,5 @@
 # Project Overview:
-This project explored the impact of Education on Earnings along the Time with a focus on the Gap between Genders through data visualization. 
+This project explored the impact of Education on Earnings over a time span of 20 plus years with a focus on the Pay Gap between Genders through data visualization. 
 
 **Usage and Installation Instructions**
 This project utilizes two datasets from the US Bureau of Labor Statistics in CSV files named "earnings.csv" and "growth.csv".
@@ -14,7 +14,12 @@ This project utilizes two datasets from the US Bureau of Labor Statistics in CSV
 
 **Team members:**
 
-Elizabeth Arias, Sebastian Fajardo, Dawn Kim, Chearine P, Zhongzhe Shen (Dennis), Vanessa
+1. Elizabeth Arias 
+2. Sebastian Fajardo 
+3. Dawn Kim 
+4. Chearine Pringle 
+5. Zhongzhe Shen (Dennis) 
+6. Vanessa Wright
 
 **Dataset:**
 
@@ -24,10 +29,9 @@ Jupyter Notebook; Google Collab [https://colab.google/]
 
 **Approach and Methodology:**
 
-Started with project ideation, sourcing data & transforming it manually to the usable CSV file.  Then used Power BI to quickly assess the feasibility of the downloaded
-downloaded dataset into an excel tab separated values. Further took Python to explore, clean and analyze the data. The new layout was stored as a standard
-CSV file and Github for code repository. Finally built visualizations with Jupyter Notebook and Google Collab. Both top-down and bottom-up approachs were
-adopted to come up with a narrative, synthesizing information/charts, and ensuring they answer the questions we set out to address.
+Started with project ideation, sourcing data & transforming it using excel and python to a usable dataframe and csv file. Then used Power BI to quickly gather insights on the downloaded  dataset and assess the feasibility of our hypothesis. Python was used for formatting and exploratory data analysis. The new layout was stored as a standard
+CSV file that was read into our code as a dataframe. Github was used for code repository, presentation deck and README file. Finally built visualizations using Google Collab. Both top-down and bottom-up approachs were adopted to define the narrative, synthesizing of information/charts, and ensuring they answer the questions we set out to address.
+
 bls.govbls.gov
 Databases, Tables & Calculators by Subject (12 kB)
 https://www.bls.gov/data/#employment
@@ -35,6 +39,5 @@ https://www.bls.gov/data/#employment
 **The conclusions were:**
 
 1) Both men & women earn more with increased education; While there is a noticeable gender gap in pay between men & women, pay across both genders are directionally aligned across all education levels.
-2) Gender gap is fairly consistent ($0.70/$0.80 Female : $1 Male), with greater gender imparity for Advanced Degree (compared to lower education levels).
-3) Wage growth seems to be generally aligned across genders, perhaps lagged for females across lower education levels.
-
+2) Gender gap is fairly consistent ($0.70/$0.80 Female : $1 Male), with greater gender imparity the higher the education level i.e. Advanced Degree (compared to lower education levels).
+3) Wage growth seems to be generally aligned across genders, showing almost perfectly positive correlation between genders.
