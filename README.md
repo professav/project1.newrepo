@@ -58,3 +58,14 @@ https://www.bls.gov/data/#employment
 2) Gender gap is fairly consistent ($0.70/$0.80 Female : $1 Male), with greater gender imparity the higher the education level i.e. Advanced Degree (compared to lower education levels).
 3) Wage growth seems to be generally aligned across genders, showing almost perfectly positive correlation between genders.
 
+
+**Articles:**
+Gender pay gap in U.S. hasn’t changed much in two decades
+https://www.pewresearch.org/short-reads/2023/03/01/gender-pay-gap-facts/
+
+Gender wage gap widens even as low-wage workers see strong gains
+https://www.epi.org/blog/gender-wage-gap-widens-even-as-low-wage-workers-see-strong-gains-women-are-paid-roughly-22-less-than-men-on-average/
+
+
+
+
