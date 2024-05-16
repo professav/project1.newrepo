@@ -32,7 +32,7 @@ Jupyter Notebook; Google Collab [https://colab.google/]
 Started with project ideation, sourcing data & transforming it using excel and python to a usable dataframe and csv file. Then used Power BI to quickly gather insights on the downloaded  dataset and assess the feasibility of our hypothesis. Python was used for formatting and exploratory data analysis. The new layout was stored as a standard
 CSV file that was read into our code as a dataframe. Github was used for code repository, presentation deck and README file. Finally built visualizations using Google Collab. Both top-down and bottom-up approachs were adopted to define the narrative, synthesizing of information/charts, and ensuring they answer the questions we set out to address.
 
-bls.govbls.gov
+bls.gov
 Databases, Tables & Calculators by Subject (12 kB)
 https://www.bls.gov/data/#employment
 
@@ -41,3 +41,4 @@ https://www.bls.gov/data/#employment
 1) Both men & women earn more with increased education; While there is a noticeable gender gap in pay between men & women, pay across both genders are directionally aligned across all education levels.
 2) Gender gap is fairly consistent ($0.70/$0.80 Female : $1 Male), with greater gender imparity the higher the education level i.e. Advanced Degree (compared to lower education levels).
 3) Wage growth seems to be generally aligned across genders, showing almost perfectly positive correlation between genders.
+
