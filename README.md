@@ -53,7 +53,7 @@ CSV file that was read into our code as a dataframe. Github was used for code re
 
 
 
-**The conclusions were**
+**The conclusions were...**
 
 * Both men & women earn more with increased education; While there is a noticeable gender gap in pay between men & women, pay across both genders are directionally aligned across all education levels.
 * Gender gap is fairly consistent ($0.70/$0.80 Female : $1 Male), with greater gender imparity the higher the education level i.e. Advanced Degree (compared to lower education levels).
