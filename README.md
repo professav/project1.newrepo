@@ -1,6 +1,15 @@
 # Project Overview:
 This project explored the impact of Education on Earnings over a time span of 20 plus years with a focus on the Pay Gap between Genders through data visualization. 
 
+**Team members:**
+
+1. Elizabeth Arias 
+2. Sebastian Fajardo 
+3. Dawn Kim 
+4. Chearine Pringle 
+5. Zhongzhe Shen (Dennis) 
+6. Vanessa Wright
+
 **Usage and Installation Instructions**
 This project utilizes two datasets from the US Bureau of Labor Statistics in CSV files named "earnings.csv" and "growth.csv".
 1) The program requests an upload of "earnings.csv".
@@ -12,14 +21,21 @@ This project utilizes two datasets from the US Bureau of Labor Statistics in CSV
 7) A function is created to graph the year over year growth in % for both men and women for three different education levels- "Advanced degree", "High school graduates", "Bachelor's degree only".
 8) Prophet models are created for men and women weekly earnings and two graphs are created showing the predicted values for the next 10 years.
 
-**Team members:**
+![image](https://github.com/professav/project1.newrepo/assets/163077507/66dc96ff-56af-4281-b035-7895422c40f2)
+![image](https://github.com/professav/project1.newrepo/assets/163077507/364a0e84-deb7-4f7e-b98a-47065ac60731)
+![image](https://github.com/professav/project1.newrepo/assets/163077507/84b7b788-ebb5-45b7-ab43-3b2c7a3fb124)
+![image](https://github.com/professav/project1.newrepo/assets/163077507/38712698-7ccd-4ac7-a761-72b38108576f)
+![image](https://github.com/professav/project1.newrepo/assets/163077507/67b29a78-4480-417e-940b-d13b75cffd48)
+![image](https://github.com/professav/project1.newrepo/assets/163077507/55ca024d-ea3a-4706-b150-849816263fc5)
+![image](https://github.com/professav/project1.newrepo/assets/163077507/cc47a5db-9741-4a1f-8266-dd30728b0e62)
+![image](https://github.com/professav/project1.newrepo/assets/163077507/359b29d6-7d43-4b9c-a5e7-d2f528ca185c)
 
-1. Elizabeth Arias 
-2. Sebastian Fajardo 
-3. Dawn Kim 
-4. Chearine Pringle 
-5. Zhongzhe Shen (Dennis) 
-6. Vanessa Wright
+
+
+
+
+
+
 
 **Dataset:**
 
